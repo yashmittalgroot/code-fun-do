@@ -1,1 +1,1 @@
-# code-fun-do
+# Election result deceleration on election day
